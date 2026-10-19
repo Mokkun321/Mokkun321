@@ -17,12 +17,8 @@ Here are some ideas to get you started:
 ### About me
 I'm 19 years old. I'm a university student in Japan. My use coding language is Java for Minecraft.
 
-
-
-## バッジ
-
-![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mokkun321&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
 
